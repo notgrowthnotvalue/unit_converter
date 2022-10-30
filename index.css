@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    width: 550px;
+    height: 730px;
+    width: 550px;
+    background: #F4F4F4;
+}
+
+.top{
+    display: flex;
+    height: 285px;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background: #6943FF;    
+    font-family: 'Inter';
+    font-style: normal;
+    color: white;   
+}
+
+#input-el{
+    box-sizing: border-box;
+    width: 117px;
+    height: 83px;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    font-size: 55px;
+    background: #6943FF;
+    text-align: center;
+    color: white;
+}
+
+#metric-btn{
+    width: 117px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #3D3D3D;
+}
+
+.conversion-table{
+    margin-right: 25px;
+    margin-left: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+    color: #5A537B;
+
+}
+
+.table {
+    width: 500px;
+    height: 108.57px;
+    left: 25px;
+    top: 453px;
+    background: #FFFFFF;
+    border-radius: 4.68077px 0px 0px 0px;    
+}
+
+p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #353535;
+}
